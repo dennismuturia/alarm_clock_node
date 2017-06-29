@@ -1,0 +1,16 @@
+$grey:#8a8c8e;
+$trans:.4;
+
+.center{
+  background-color: $grey;
+  opacity: $trans;
+  margin-left: 30%;
+  font-family: 'Roboto', sans-serif;
+}
+  .but{
+    font-weight: bold;
+    text-align: center;
+    background: red;
+    opacity: .9;
+    color: white;
+  }
